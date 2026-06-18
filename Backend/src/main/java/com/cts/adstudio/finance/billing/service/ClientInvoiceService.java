@@ -23,7 +23,7 @@ import java.util.List;
 
 /**
  * Client billing (Backend Plan §4.7, Days 4-13).
- *
+ *  adding this to get contrib
  * COMMISSION MODEL (the one business rule to confirm with Finance/BA):
  *   agencyCommission = invoiceAmount * commissionRate
  *   netBillable      = invoiceAmount + agencyCommission     (commission billed on top)
