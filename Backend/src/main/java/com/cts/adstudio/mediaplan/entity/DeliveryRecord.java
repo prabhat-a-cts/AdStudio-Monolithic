@@ -6,6 +6,7 @@ import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
+// editing the commit as new line
 // TEMPORARY entity for standalone pacing testing.
 // Replaced by Dev 4's delivery-service during integration.
 @Entity
